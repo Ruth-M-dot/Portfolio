@@ -2,7 +2,7 @@
 
 ![Portfolio Screenshot](assets/images/projects/screenshot.png)
 ![Portfolio Screenshot](assets/images/projects/scrnshot.png)
- <!-- Add your screenshot if available -->
+<!-- Add your screenshot if available -->
 
 A modern, responsive portfolio website built with React.js, featuring smooth animations, dark/light mode toggle, and project showcases.
 
