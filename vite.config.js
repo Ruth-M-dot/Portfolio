@@ -1,7 +1,9 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
 
-// https://vite.dev/config/
+const repoName = 'Portfolio'
+
 export default defineConfig({
-  plugins: [react()],
+  base: `/${repoName}/`,
+  plugins: [react()], // ✅ Include the plugin here
 })
